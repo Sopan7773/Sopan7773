@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sopan Bargaje</h1>
 <h3 align="center">A passionate Python Full Stack Developer from India</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" alt="codng" width="400">
-
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="code" align="right" alt="codng" width="400px">
+   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sopan7773&label=Profile%20views&color=0e75b6&style=flat" alt="sopan7773" /> </p>
 
