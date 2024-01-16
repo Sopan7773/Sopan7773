@@ -4,8 +4,9 @@
   </a>
 </h1>
 <a href='https://www.linkedin.com/in/sopanbargaje/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='28px'/></a>
-<a href='https://twitter.com/SopanBargaje4'><img align='left' alt="twitter" src="./assets/twitter.svg" height='28px'/></a>
 <a href='https://github.com/Sopan7773'><img align='left' alt="github" src="./assets/github.svg" height='28px'/></a>
+<a href='https://twitter.com/SopanBargaje4'><img align='left' alt="twitter" src="./assets/twitter.svg" height='28px'/></a>
+
 <br>
 <br>
 <br>
