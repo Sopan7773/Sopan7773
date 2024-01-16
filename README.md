@@ -1,4 +1,17 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;This+is+Sopan+Bargaje..;Nice+to+meet+you!&align=center&size=35">
+  </a>
+</h1>
+<a href='https://www.linkedin.com/in/sopanbargaje/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='28px'/></a>
+<a href='https://twitter.com/SopanBargaje4'><img align='left' alt="twitter" src="./assets/twitter.svg" height='28px'/></a>
+<a href='https://github.com/Sopan7773'><img align='left' alt="github" src="./assets/github.svg" height='28px'/></a>
+<br>
+<br>
+<br>
+
 ![logo](https://github.com/Sopan7773/Sopan7773/blob/main/Banner2.png)
+
 <h1 align="center">Hi 👋, I'm Sopan Bargaje</h1>
 <h3 align="center">A passionate Python Full Stack Developer from India</h3>
 
