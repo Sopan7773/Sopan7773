@@ -1,4 +1,4 @@
-![logo](https://github.com/Sopan7773/Sopan7773/blob/main/Banner2(2).png)
+![logo](https://github.com/Sopan7773/Sopan7773/blob/main/Banner2 (2).png)
 <h1 align="center">Hi 👋, I'm Sopan Bargaje</h1>
 <h3 align="center">A passionate Python Full Stack Developer from India</h3>
 
